@@ -1,17 +1,15 @@
-# AIOT-Phone
 <div align="center">
     <h1>AIOT-Phone多模态大模型AI终端设备</h1>
-    <img src="https://img.shields.io/github/license/JasonYANG170/AIOT-Phone?label=License&style=for-the-badge">
-    <img src="https://img.shields.io/github/commit-activity/w/JasonYANG170/AIOT-Phone?style=for-the-badge">
-<img src="https://img.shields.io/github/languages/count/JasonYANG170/AIOT-Phone?logo=c&style=for-the-badge">
-	<br>
-    	<a href="https://discord.com/invite/az3ceRmgVe"><img alt="Discord" src="https://img.shields.io/discord/978108215499816980?style=social&logo=discord&label=echosec"></a>
-  <br>
- 
-<br>
-这是一项基于C语言的ESP32S3多模态大模型AI终端设备
 
-<br>
+
+![Static Badge](https://img.shields.io/badge/License-CC_BY_NC_SA_4.0-green?style=for-the-badge)
+![Commit Activity](https://img.shields.io/github/commit-activity/w/JasonYANG170/AIOT-Phone?style=for-the-badge&color=yellow)
+![Languages Count](https://img.shields.io/github/languages/count/JasonYANG170/AIOT-Phone?logo=c&style=for-the-badge)
+
+[![Discord](https://img.shields.io/discord/978108215499816980?style=social&logo=discord&label=echosec)](https://discord.com/invite/az3ceRmgVe)
+
+
+这是一项基于C语言的电子密钥存储器
 
 </div>
 
