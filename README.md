@@ -16,11 +16,10 @@
 </div>
 
 
-[![MCU Chat with AI](https://res.cloudinary.com/marcomontalbano/image/upload/v1724819039/video_to_markdown/images/youtube--MkHF5_qNty8-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://youtu.be/MkHF5_qNty8 "MCU Chat with AI")
+[![ESP32 LVGL Chat with AI](https://res.cloudinary.com/marcomontalbano/image/upload/v1724820150/video_to_markdown/images/youtube--R_B1rzzal6A-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://youtu.be/R_B1rzzal6A "ESP32 LVGL Chat with AI")
 
-[无法播放请点此使用BiliBili](https://www.bilibili.com/video/BV1YtsNe4EtU/)
+[无法播放请点此使用BiliBili](https://www.bilibili.com/video/BV1UqsNeJE3j/)
 
-[无法播放请点此使用BiliBili](https://www.bilibili.com/video/BV1ZnsNecEAA/)
 
 ## 功能
 - ✅支持环境视觉识别
