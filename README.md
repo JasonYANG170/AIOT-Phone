@@ -3,9 +3,7 @@
 
 
 ![Static Badge](https://img.shields.io/badge/License-CC_BY_NC_SA_4.0-green?style=for-the-badge)
-![Commit Activity](https://img.shields.io/github/commit-activity/w/JasonYANG170/AIOT-Phone?style=for-the-badge&color=yellow)
-![Languages Count](https://img.shields.io/github/languages/count/JasonYANG170/AIOT-Phone?logo=c&style=for-the-badge)
-
+![Commit Activity](https://img.shields.io/github/commit-activity/w/JasonYANG170/AIOT-Phone?style=for-the-badge&color=yellow)![Languages Count](https://img.shields.io/github/languages/count/JasonYANG170/AIOT-Phone?logo=c&style=for-the-badge)
 [![Discord](https://img.shields.io/discord/978108215499816980?style=social&logo=discord&label=echosec)](https://discord.com/invite/az3ceRmgVe)
 
 
@@ -31,15 +29,15 @@
 
 如遇问题，请向我提出issues
 
-## 电路设计
-[AIOT-Phone.md](..%2FPCB%2FAIOT-Phone.md)
 
-## 展示图
-![a03085d01395b2ca72be42d182180e8.jpg](..%2FPCB%2Fsrc%2Fa03085d01395b2ca72be42d182180e8.jpg)
-![01d707e478b931b0958bd30d4e020cc.jpg](..%2FPCB%2Fsrc%2F01d707e478b931b0958bd30d4e020cc.jpg)
-![86d2205ab37787efd5aef429db36118.jpg](..%2FPCB%2Fsrc%2F86d2205ab37787efd5aef429db36118.jpg)
-![3a8b6ff10a777a191f7fc093dbcbc1b.jpg](..%2FPCB%2Fsrc%2F3a8b6ff10a777a191f7fc093dbcbc1b.jpg)
-![77465f6cea63967e52ca40b6a876a90.jpg](..%2FPCB%2Fsrc%2F77465f6cea63967e52ca40b6a876a90.jpg)
+## 项目参数
+
+* 本设计采用OV2640摄像头，以实现对环境的视觉采样；
+* 本设计采用max98357音频芯片，以实现应答语音播放；
+* 本设计采用INMP441全向麦风，以实现环境音频采样；
+* 本项目支持MQTT服务功能，您可接入您的MQTT服务器并可以使用我开发的开源客户端控制
+* 本项目设及的服务我会在Github提供doceker-compose.yml文件，方便一键部署
+
 
 ## 喜欢这个项目，请为我点个Star ⭐
 
@@ -47,4 +45,11 @@
 
 
 
+## 实物图
+
+![01d707e478b931b0958bd30d4e020cc.jpg](//image.lceda.cn/oshwhub/0f6e07758d3c46b9bd9e83aac3cabed4.jpg)
+![86d2205ab37787efd5aef429db36118.jpg](//image.lceda.cn/oshwhub/8150d6076d4f44ccb68acae80b7ca244.jpg)
+![3a8b6ff10a777a191f7fc093dbcbc1b.jpg](//image.lceda.cn/oshwhub/fd5c217bc9624a7b9c2d3b8d5f89930b.jpg)
+
+![77465f6cea63967e52ca40b6a876a90.jpg](//image.lceda.cn/oshwhub/4272d83750ca4acfaec18abbfc639b71.jpg)
 
