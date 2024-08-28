@@ -1,0 +1,32 @@
+version: "3.8"
+
+services:
+  ollama:
+    build: .
+    container_name: ollama
+    image: ollama/ollama
+    environment:
+      - OLLAMA_ORIGINS=*
+      - OLLAMA_HOST=0.0.0.0:11434
+    healthcheck:
+      test: ollama --version || exit 1
+      interval: 10s
+    ports:
+      - "11434:11434"
+    volumes:
+      - ./ollama:/root/.ollama
+  server:
+    image: onerahmet/openai-whisper-asr-webservice:latest
+    ports:
+      - '9000:9000'
+    environment:
+      - 'ASR_MODEL=base'
+      - 'ASR_ENGINE=openai_whisper'
+    volumes:
+      - './data:/root/.cache/whisper'
+  opentts:
+    image: synesthesiam/opentts:zh-2.1
+    ports:
+      - '5500:5500'
+    volumes:
+      - './cache:/cache'
