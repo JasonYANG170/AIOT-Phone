@@ -7,7 +7,7 @@
 [![Discord](https://img.shields.io/discord/978108215499816980?style=social&logo=discord&label=echosec)](https://discord.com/invite/az3ceRmgVe)
 
 
-这是一项基于C语言的电子密钥存储器
+这是一项基于C语言的多模态大模型AI终端设备
 
 </div>
 
