@@ -12,10 +12,10 @@
 </div>
 
 
+
 [![ESP32 LVGL Chat with AI](https://res.cloudinary.com/marcomontalbano/image/upload/v1724820150/video_to_markdown/images/youtube--R_B1rzzal6A-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://youtu.be/R_B1rzzal6A "ESP32 LVGL Chat with AI")
 
 [无法播放请点此使用BiliBili](https://www.bilibili.com/video/BV1UqsNeJE3j/)
-
 
 ## 功能
 - ✅支持环境视觉识别
@@ -49,12 +49,11 @@
 
 
 ## 实物图
-![0f97c1f6d382979f92d099d5dbf5a25](https://github.com/user-attachments/assets/a4f69bb5-2b8e-46b7-b72a-2ef26def1611)
-![f410fd7d88d6363f10a9235f6913a83](https://github.com/user-attachments/assets/ddcb6ba9-d42d-46f6-9154-c69b4be06d15)
-![a03085d01395b2ca72be42d182180e8](https://github.com/user-attachments/assets/9ca77110-7e6e-422c-8267-b7face3b8dc9)
-![01d707e478b931b0958bd30d4e020cc](https://github.com/user-attachments/assets/5ed8617b-b2c3-4c21-9647-3db4341c9944)
-![86d2205ab37787efd5aef429db36118](https://github.com/user-attachments/assets/ba885e87-426a-4daf-be02-769aa344a35e)
-![77465f6cea63967e52ca40b6a876a90](https://github.com/user-attachments/assets/759c3f38-63ab-4405-bbab-91cf3d94750b)
-![3a8b6ff10a777a191f7fc093dbcbc1b](https://github.com/user-attachments/assets/3480c34d-60f3-4a0b-9ea1-71deda60c4ab)
-![a865e7189d41e7c1b627ddb752b2591](https://github.com/user-attachments/assets/1caaaa7c-dd0b-4019-a6ca-efb417f15e7c)
+
+| 1 | 2 |
+| --- | --- |
+|![0f97c1f6d382979f92d099d5dbf5a25](https://github.com/user-attachments/assets/a4f69bb5-2b8e-46b7-b72a-2ef26def1611)| ![a03085d01395b2ca72be42d182180e8](https://github.com/user-attachments/assets/9ca77110-7e6e-422c-8267-b7face3b8dc9) |
+|![01d707e478b931b0958bd30d4e020cc](https://github.com/user-attachments/assets/5ed8617b-b2c3-4c21-9647-3db4341c9944)|![86d2205ab37787efd5aef429db36118](https://github.com/user-attachments/assets/ba885e87-426a-4daf-be02-769aa344a35e)|
+|![3a8b6ff10a777a191f7fc093dbcbc1b](https://github.com/user-attachments/assets/3480c34d-60f3-4a0b-9ea1-71deda60c4ab)|![77465f6cea63967e52ca40b6a876a90](https://github.com/user-attachments/assets/759c3f38-63ab-4405-bbab-91cf3d94750b)|
+
 
