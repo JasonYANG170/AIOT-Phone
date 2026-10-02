@@ -1,7 +1,7 @@
 [简体中文](README.md) | [English](README_en.md)
 
 <div align="center">
-    <h1>AIOT-Phone多模态大模型AI终端设备</h1>
+    <h1>AIOT-Phone multi-modal large model AI terminal equipment </h1>
 
 
 ![Static Badge](https://img.shields.io/badge/License-CC_BY_NC_SA_4.0-green?style=for-the-badge)
@@ -9,7 +9,7 @@
 [![Discord](https://img.shields.io/discord/978108215499816980?style=social&logo=discord&label=echosec)](https://discord.com/invite/az3ceRmgVe)
 
 
-这是一项基于C语言的多模态大模型AI终端设备
+This is a multi-modal large-model AI terminal device based on C language
 
 </div>
 
@@ -17,40 +17,40 @@
 
 [![ESP32 LVGL Chat with AI](https://res.cloudinary.com/marcomontalbano/image/upload/v1724820150/video_to_markdown/images/youtube--R_B1rzzal6A-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://youtu.be/R_B1rzzal6A "ESP32 LVGL Chat with AI")
 
-[无法播放请点此使用BiliBili](https://www.bilibili.com/video/BV1UqsNeJE3j/)
+[Unable to play, please click here to use BiliBili](https://www.bilibili.com/video/BV1UqsNeJE3j/)
 
-## 功能
-- ✅支持环境视觉识别
-- ✅支持语音交互
-- ✅支持语音播放
-- ✅支持多国语音
-- ✅支持多模态大模型
-- ✅支持LVGL9.1
-- ✅支持触摸屏交互
-- ✅支持屏幕亮度调节。
+## Features
+- ✅Supports environmental visual recognition
+- ✅Supports voice interaction
+- ✅Supports voice playback
+- ✅Supports multiple languages
+- ✅Support multi-modal large models
+- ✅Support LVGL9.1
+- ✅Support touch screen interaction
+- ✅Supports screen brightness adjustment.
 
-如遇问题，请向我提出issues
+If you encounter any problems, please submit issues to me
 
 
-## 项目参数
+## Project parameters
 
-* 本设计采用OV2640摄像头，以实现对环境的视觉采样；
-* 本设计采用max98357音频芯片，以实现应答语音播放；
-* 本设计采用INMP441全向麦风，以实现环境音频采样；
-* 本项目支持MQTT服务功能，您可接入您的MQTT服务器并可以使用我开发的开源客户端控制
-* 本项目设及的服务我会在Github提供doceker-compose.yml文件，方便一键部署
-## 开源协议
-本项目遵循CC BY-NC-SA 4.0开源协议，使用本程序时请注明出处并进行版权声明  
-本项目仅供学习研究与学习，严禁非授权的商业获利，  
-如果您有更好的建议，欢迎PR
+* This design uses OV2640 camera to achieve visual sampling of the environment;
+* This design uses max98357 audio chip to realize response voice playback;
+* This design uses INMP441 omnidirectional microphone to achieve environmental audio sampling;
+* This project supports the MQTT service function. You can access your MQTT server and control it using the open source client I developed.
+* A doceker-compose.yml file will be provided on GitHub for the services used by this project, enabling one-click deployment.
+## Open Source Agreement
+This project follows the CC BY-NC-SA 4.0 open source agreement. When using this program, please indicate the source and make a copyright statement.
+This project is for study, research and study only, and unauthorized commercial profits are strictly prohibited.
+If you have better suggestions, please PR
 
-## 喜欢这个项目，请为我点个Star ⭐
+## If you like this project, please give me a star ⭐
 
 [![Star History Chart](https://api.star-history.com/svg?repos=JasonYANG170/AIOT-Phone&type=Date)](https://star-history.com/#star-history/star-history&Date)
 
 
 
-## 实物图
+## Actual picture
 
 | 1 | 2 |
 | --- | --- |
